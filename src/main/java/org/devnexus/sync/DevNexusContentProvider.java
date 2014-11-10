@@ -24,6 +24,7 @@ import java.util.concurrent.atomic.AtomicReference;
 import org.jboss.aerogear.android.impl.datamanager.DefaultIdGenerator;
 import org.jboss.aerogear.android.impl.datamanager.SQLStore;
 
+
 /**
  * Created by summers on 2/8/14.
  */
